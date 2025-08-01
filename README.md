@@ -45,6 +45,7 @@ This method is commonly used for indoor positioning where GPS signals are weak o
 
 ## 📂 Project Folder Structure
 
+```
 Mobile-Tracking-with-Trilateration-using-ESP32/
 ├── towers/
 │   ├── esp32_tower1_receiver.ino
@@ -53,7 +54,7 @@ Mobile-Tracking-with-Trilateration-using-ESP32/
 ├── mobile/
 │   └── esp32_mobile_target.ino
 └── README.md
-
+```
 
 
 ## 🚀 Applications

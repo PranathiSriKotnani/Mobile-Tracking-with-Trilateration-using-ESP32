@@ -43,7 +43,8 @@ This method is commonly used for indoor positioning where GPS signals are weak o
 
 5. Each tower calculates distance and eventually estimates the mobile’s position
 
-📂 Project Folder Structure
+## 📂 Project Folder Structure
+
 Mobile-Tracking-with-Trilateration-using-ESP32/
 ├── towers/
 │   ├── esp32_tower1_receiver.ino

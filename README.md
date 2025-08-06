@@ -67,4 +67,4 @@ Mobile-Tracking-with-Trilateration-using-ESP32/
 
 ## ⚠️ Disclaimer
 
-Accuracy depends on environment, interference, and RSSI stability. This implementation is experimental and intended for learning.
+Accuracy depends on environment, interference, and RSSI stability. This implementation is experimental and intended for learning. 
